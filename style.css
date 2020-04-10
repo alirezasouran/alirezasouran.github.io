@@ -1,0 +1,196 @@
+* {
+  margin: 0;
+  padding: 0%;
+}
+
+.d-inline {
+  display: inline;
+}
+
+.ml-70 {
+  margin-left: 70px;
+}
+
+.img-res {
+  max-width: 100%;
+  display: block;
+}
+
+.per50 {
+  display: inline-block;
+  width: 50%;
+}
+.header-bg {
+  background-image: url("assets/img/abstract-technology-particle-background_52683-25766.jpg");
+  width: 100%;
+  height: 50vh;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.container {
+  width: 55%;
+  margin: auto;
+}
+
+.navbar {
+  list-style-type: none;
+  color: white;
+  float: right;
+  margin: 40px 0;
+}
+
+.navbar > li {
+  display: inline;
+  padding: 0 5px;
+}
+
+.navbar > li > a {
+  text-decoration: none;
+  color: white;
+}
+
+.logo {
+  width: 8%;
+  margin: 30px 0;
+}
+
+.s-icon {
+  margin: 0 10px;
+}
+
+.heading {
+  margin-top: 20px;
+  width: 70%;
+  color: white;
+}
+
+.socialAc {
+  display: inline-block;
+  margin-top: 50px;
+  font-size: 30px;
+  color: white;
+  width: 50px;
+  border-radius: 50%;
+  text-align: center;
+  height: 50px;
+}
+
+.twitter {
+  background-color: dodgerblue;
+}
+
+.fire {
+  background-color: firebrick;
+}
+
+.socialAc > svg {
+  margin-top: 11px;
+}
+
+.avatar {
+  width: 40px;
+  border-radius: 50%;
+  margin-top: 20px;
+}
+
+.username {
+  display: inline-block;
+  margin-top: -33px;
+  font-size: 15px;
+}
+
+.username > p {
+  display: inline;
+  margin: 0 10px;
+  color: white;
+}
+
+.username > p:first-child {
+  font-weight: bold;
+}
+
+.avatarB {
+  width: 60px;
+  border-radius: 50%;
+  margin-top: 20px;
+}
+
+.names {
+  display: inline-block;
+  margin-top: -48px;
+  font-size: 15px;
+  color: white;
+}
+
+.img-1 {
+  vertical-align: middle;
+  height: auto;
+  margin: -15% 0;
+  width: 100%;
+}
+
+.big-img {
+  overflow: hidden;
+  width: 400px;
+  height: 400px;
+  margin: 30px;
+  margin-bottom: 20px;
+  border-radius: 10px;
+  float: right;
+}
+
+.img-2 {
+  vertical-align: middle;
+  height: auto;
+  margin: -42% 0;
+  width: 100%;
+}
+
+.small-top-img {
+  overflow: hidden;
+  width: 400px;
+  height: 190px;
+  margin: auto;
+  margin-top: 30px;
+  margin-bottom: 10px;
+  border-radius: 10px;
+  float: left;
+  display: block;
+}
+
+.small-bottom-left-img {
+  overflow: hidden;
+  width: 190px;
+  height: 190px;
+  margin-top: 10px;
+  margin-bottom: 20px;
+  border-radius: 10px;
+  float: left;
+  margin-right: 10px;
+}
+
+.small-bottom-right-img {
+  overflow: hidden;
+  width: 190px;
+  height: 190px;
+  margin-top: 10px;
+  margin-bottom: 20px;
+  border-radius: 10px;
+  float: left;
+  margin-left: 10px;
+}
+
+.img-3 {
+  vertical-align: middle;
+  height: auto;
+  margin: -15% 0;
+  width: 100%;
+}
+
+.img-4 {
+  vertical-align: middle;
+  height: auto;
+  margin: -15% 0;
+  width: 100%;
+}
